@@ -41,7 +41,7 @@ set(HEADER_FILES
 	patternplay/patternplay.h
 
 	joseki/base.h
-	joseki/joseki.c
+	joseki/joseki.h
 
 	montecarlo/internal.h
 	montecarlo/montecarlo.h
